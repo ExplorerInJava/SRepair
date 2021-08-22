@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="SRepair:exploded archive">
-    <output-path>$PROJECT_DIR$/target/SRepair_exploded_archive</output-path>
-    <root id="archive" name="SRepair_exploded archive.war">
-      <element id="artifact" artifact-name="SRepair:exploded" />
-    </root>
-  </artifact>
-</component>
